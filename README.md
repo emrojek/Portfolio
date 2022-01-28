@@ -2,7 +2,7 @@
 
 # About me
 
-My name is Michał Rojek. I am a second-year student of Computer Science who is most intrested in Software Testing. My goal is to grow in testing - expanding my knowledge and technical skills. On this page I would like to share all my gained experience from own learning and work.
+My name is Michał Rojek. I am a second-year student of Computer Science who is most intrested in Software Testing. My goal is to grow in testing - expanding my knowledge and technical skills. On this page I would like to share all my gained experience from self-study and work.
 
 # Tools
 
@@ -11,6 +11,7 @@ My name is Michał Rojek. I am a second-year student of Computer Science who is 
 * [TestLink](https://bitnami.com/stack/testlink)
 * [Jira](https://www.atlassian.com/software/jira)
 * [Trello](https://trello.com/)
+* [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi?hl=pl)
 
 # Technical skills
 
@@ -50,3 +51,11 @@ My name is Michał Rojek. I am a second-year student of Computer Science who is 
 * [zaprogramujzycie.pl](https://zaprogramujzycie.pl/)
 * [cherry-it.pl](http://cherry-it.pl/)
 * [testerzy.pl](https://testerzy.pl/)
+
+# My test cases examples
+
+* [Test cases for MrBuggy7 app](https://drive.google.com/file/d/1Y2cQYQR5TupzRzhqgSXobdunBHnsIv0U/view?usp=sharing)
+
+# My bug reports examples
+
+* [Bugs reported for bip.um.szczecin.pl website](https://drive.google.com/file/d/1ag0VKxOThd35SHF1CZMNoaCD96Gculu2/view?usp=sharing)
