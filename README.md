@@ -59,3 +59,8 @@ My name is Michał Rojek. I am a second-year student of Computer Science who is 
 # My bug reports examples
 
 * [Bugs reported for bip.um.szczecin.pl website](https://drive.google.com/file/d/1ag0VKxOThd35SHF1CZMNoaCD96Gculu2/view?usp=sharing)
+
+# My project
+
+* Group project - testing the [Rental Property Managment Application](app.systemobsluginajmu.p) in Agile team
+  * [Test scenarios and cases](https://drive.google.com/file/d/1Nz5xomHdyWd7HlfqDKo6U-gKpbucC46t/view?usp=sharing)
