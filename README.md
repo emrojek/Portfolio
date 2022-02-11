@@ -63,4 +63,4 @@ My name is Michał Rojek. I am a second-year student of Computer Science who is 
 # My project
 
 * Group project - testing the [Rental Property Managment Application](https://app.systemobsluginajmu.pl) in Agile team
-  * [Test scenarios and test cases](https://drive.google.com/file/d/1qNnKGqQMOqnnRRO7h0rmIMvzPLEnNuCU/view?usp=sharing)
+  * [Test scenarios and test cases](https://drive.google.com/file/d/1QCc3Ao-aHo8qnql6MQMcO8NfQcln2VeM/view?usp=sharing)
