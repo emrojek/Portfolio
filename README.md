@@ -68,3 +68,4 @@ My name is Michał Rojek. I am a second-year student of Computer Science who is 
   * [Test scenario and test cases for Tenants module](https://drive.google.com/file/d/16b-iaFPc-DUfelGw2zo7MOqk6kultQ-M/view?usp=sharing)
     * [Tenants module test report](https://drive.google.com/file/d/1LZC8YSzoAMNWQXQ5rrj4l6vr4oRZ3SXw/view?usp=sharing)
   * [Test scenario and test cases for Properties module](https://drive.google.com/file/d/13iAAldCt1lNJ63OcUQsTyCNQGSYW5f8M/view?usp=sharing)
+    * [Properties module test report](https://drive.google.com/file/d/1Q-NepHtQYTuVAEqWP2xxEiIL9opPe0BT/view?usp=sharing)
