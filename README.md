@@ -8,24 +8,26 @@ My name is Michał Rojek. I am a second-year student of Computer Science who is 
 
 * [Lightshot](https://app.prntscr.com/pl/)
 * [Screencast-O-Matic](https://screencast-o-matic.com/)
+* [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi?hl=pl)
+* [Trello](https://trello.com/)
 * [TestLink](https://bitnami.com/stack/testlink)
 * [Jira](https://www.atlassian.com/software/jira)
-* [Trello](https://trello.com/)
-* [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi?hl=pl)
+* [Postman](https://www.postman.com/)
 
 # Technical skills
 
-* Creating test scenarios and test cases
-* Bug reporting
+* ISTQB knowledge
 * Software testing
-* SQL
-* SCRUM
-* ISTQB
+* PostgreSQL
+* Scrum
+* Python (learning)
 
 # Courses
 
 * [Podstawy manualnego testowania oprogramowania](https://www.udemy.com/course/kurs-testowania-oprogramowania/)
 * [SQL dla początkujących - PostgreSQL](https://www.udemy.com/course/sql-dla-poczatkujacych-postgresql-z-podrecznikiem-pdf/)
+* [Postman od podstaw - testowanie REST API](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/)
+* [Kurs Jira od podstaw - zarządzanie projektami](https://www.udemy.com/course/kurs-jira-od-podstaw-zarzadzanie-projektami/)
 
 # Technical Books
 
