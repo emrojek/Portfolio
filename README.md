@@ -16,7 +16,7 @@ My name is Michał Rojek. I am a second-year student of Computer Science who is 
 
 # Technical skills
 
-* ISTQB knowledge
+* ISTQB FL knowledge
 * Software testing
 * PostgreSQL
 * Scrum
@@ -49,7 +49,6 @@ My name is Michał Rojek. I am a second-year student of Computer Science who is 
 
 * [jaktestowac.pl](https://jaktestowac.pl/)
 * [wyszkolewas.com](https://www.wyszkolewas.com.pl/)
-* [blue.kiwi](https://blue.kiwi/)
 * [zaprogramujzycie.pl](https://zaprogramujzycie.pl/)
 * [cherry-it.pl](http://cherry-it.pl/)
 * [testerzy.pl](https://testerzy.pl/)
