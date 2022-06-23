@@ -2,7 +2,7 @@
 
 # About me
 
-My name is Michał Rojek. I am a second-year student of Computer Science who is most intrested in Software Testing. My goal is to grow in testing - expanding my knowledge and technical skills. On this page I would like to share all my gained experience from self-study and work.
+Hi! My name is Michał Rojek. I am a second-year student of Computer Science who is most intrested in Software Testing. My goal is to grow in testing - expanding my knowledge and technical skills. On this page I would like to share all my gained experience from self-study and work.
 
 # Tools
 
@@ -42,7 +42,6 @@ My name is Michał Rojek. I am a second-year student of Computer Science who is 
 * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
 * [Tester oprogramowania - jak nim zostać?](https://www.facebook.com/groups/jakzostactesterem/)
 * [Cherry-IT: Zostań testerem](https://www.facebook.com/groups/2133784529983322/)
-* [Gildia Testerów](https://www.facebook.com/GildiaTesterow)
 * [ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242)
 
 # Blogs
