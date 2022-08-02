@@ -13,14 +13,18 @@ Hi! My name is Michał Rojek. I am a second-year student of Computer Science who
 - [TestLink](https://bitnami.com/stack/testlink)
 - [Jira](https://www.atlassian.com/software/jira)
 - [Postman](https://www.postman.com/)
+- [Bird Eats Bug](https://birdeatsbug.com/)
+- [Fake Filler](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo)
 
 # Technical skills
 
 - ISTQB FL knowledge
 - Software testing
 - PostgreSQL
-- Scrum
+- SCRUM
 - HTML/CSS (learning)
+- Chrome DevTools
+- GIT
 
 # Courses
 
@@ -28,6 +32,7 @@ Hi! My name is Michał Rojek. I am a second-year student of Computer Science who
 - [SQL dla początkujących - PostgreSQL](https://www.udemy.com/course/sql-dla-poczatkujacych-postgresql-z-podrecznikiem-pdf/)
 - [Postman od podstaw - testowanie REST API](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/)
 - [Kurs Jira od podstaw - zarządzanie projektami](https://www.udemy.com/course/kurs-jira-od-podstaw-zarzadzanie-projektami/)
+- [Szkolenie dla QA](https://szkoleniedlaqa.pl/szkolenie/)
 
 # Technical Books
 
