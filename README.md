@@ -2,7 +2,7 @@
 
 # About me
 
-Hi! My name is Michał Rojek. I am a second-year student of Computer Science who is most intrested in Software Testing. My goal is to grow in testing - expanding my knowledge and technical skills. On this page I would like to share all my gained experience from self-study and work.
+Hi! My name is Michał Rojek. I am a third-year Computer Science student who is most interested in Software Testing. My goal is to grow in testing - expanding my knowledge and technical skills. On this page I would like to share all my gained experience from self-study and work.
 
 # Tools
 
@@ -12,6 +12,7 @@ Hi! My name is Michał Rojek. I am a second-year student of Computer Science who
 - [Trello](https://trello.com/)
 - [TestLink](https://bitnami.com/stack/testlink)
 - [Jira](https://www.atlassian.com/software/jira)
+- [Confluence](https://www.atlassian.com/software/confluence)
 - [Postman](https://www.postman.com/)
 - [Bird Eats Bug](https://birdeatsbug.com/)
 - [Fake Filler](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo)
@@ -22,7 +23,7 @@ Hi! My name is Michał Rojek. I am a second-year student of Computer Science who
 - Software testing
 - PostgreSQL
 - SCRUM
-- HTML/CSS (learning)
+- HTML/CSS
 - Chrome DevTools
 - GIT
 
@@ -32,6 +33,7 @@ Hi! My name is Michał Rojek. I am a second-year student of Computer Science who
 - [SQL dla początkujących - PostgreSQL](https://www.udemy.com/course/sql-dla-poczatkujacych-postgresql-z-podrecznikiem-pdf/)
 - [Postman od podstaw - testowanie REST API](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/)
 - [Kurs Jira od podstaw - zarządzanie projektami](https://www.udemy.com/course/kurs-jira-od-podstaw-zarzadzanie-projektami/)
+- [Kurs Tworzenia Stron WWW cz. I - HTML, CSS, RWD](https://www.udemy.com/course/od-zera-do-front-end-developera-cz1/)
 - [Szkolenie dla QA](https://szkoleniedlaqa.pl/szkolenie/)
 
 # Technical Books
@@ -56,18 +58,27 @@ Hi! My name is Michał Rojek. I am a second-year student of Computer Science who
 - [zaprogramujzycie.pl](https://zaprogramujzycie.pl/)
 - [cherry-it.pl](http://cherry-it.pl/)
 - [testerzy.pl](https://testerzy.pl/)
+- [Newsletter QA Weekly](https://szkoleniedlaqa.pl/newsletter/)
 
-# My test cases examples
+# My test cases&scenarios examples
 
-- [Test cases for MrBuggy7 app](https://drive.google.com/file/d/1Y2cQYQR5TupzRzhqgSXobdunBHnsIv0U/view?usp=sharing)
+- [Test cases&scenarios - Allegro Sandbox](https://docs.google.com/spreadsheets/d/1UCYQ3prC0Z2_KKimK8HJKafI8uM0d1q7W_cdWrW3HDs/edit?usp=sharing)
 
 # My bug reports examples
 
-- [Bugs reported for bip.um.szczecin.pl website](https://drive.google.com/file/d/1ag0VKxOThd35SHF1CZMNoaCD96Gculu2/view?usp=sharing)
+- [Bug reports - Allegro Sandbox](https://docs.google.com/spreadsheets/d/1XtsmHnSx4snaP7sJZNORmMw1KvXxsCVG28_KW9lUsaI/edit?usp=sharing)
+
+# My Test Plan example
+
+- [Test Plan - Allegro Sandbox](https://docs.google.com/document/d/1L6n1X6EVZlrOAsH5FTHoxmw7W-B_OU1uuR97Z0T-vKY/edit?usp=sharing)
+
+# My Final Report example
+
+- [Final Report - Allegro Sandbox](https://docs.google.com/document/d/1PmWp0WVgCoTZUi8ZRTu-MHuZU6oMFov9dNWUfUcIR3A/edit?usp=sharing)
 
 # My project
 
-- Group project - testing the [Rental Property Managment Application](https://app.systemobsluginajmu.pl) in Agile team
+- Group project - testing the [Rental Property Managment Application](https://app.systemobsluginajmu.pl) in an Agile team
   - [Test scenario and test cases for Creating Account module](https://drive.google.com/file/d/109h0lIUGu-Aj_eTkc2INiA2zuKkmxh2t/view?usp=sharing)
     - [Creating Account module test report](https://drive.google.com/file/d/1PBr3_KXh79xdpY87i8iFXUxOpPxVcnka/view?usp=sharing)
   - [Test scenario and test cases for Tenants module](https://drive.google.com/file/d/16b-iaFPc-DUfelGw2zo7MOqk6kultQ-M/view?usp=sharing)
