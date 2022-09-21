@@ -2,7 +2,7 @@
 
 # About me
 
-Hi! My name is Michał Rojek. I am a third-year Computer Science student who is most interested in Software Testing. My goal is to grow in testing - expanding my knowledge and technical skills. On this page I would like to share all my gained experience from self-study and work.
+Hi! My name is Michał Rojek. I am a third-year Computer Science student who is most interested in Software Testing. My goal is to grow in testing - expanding my knowledge and technical skills. On this page I would like to share all my testing activities and the experience I have gained from self-study and work.
 
 # Tools
 
@@ -57,7 +57,6 @@ Hi! My name is Michał Rojek. I am a third-year Computer Science student who is 
 - [wyszkolewas.com](https://www.wyszkolewas.com.pl/)
 - [zaprogramujzycie.pl](https://zaprogramujzycie.pl/)
 - [cherry-it.pl](http://cherry-it.pl/)
-- [testerzy.pl](https://testerzy.pl/)
 - [Newsletter QA Weekly](https://szkoleniedlaqa.pl/newsletter/)
 
 # My test cases&scenarios examples
