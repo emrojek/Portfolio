@@ -12,20 +12,11 @@ Hi! My name is Michał Rojek. I am a third-year Computer Science student who is 
 - Chrome DevTools
 - GIT
 
-# My test cases&scenarios examples
+# My documentation examples
 
 - [Test cases&scenarios - Allegro Sandbox](https://docs.google.com/spreadsheets/d/1UCYQ3prC0Z2_KKimK8HJKafI8uM0d1q7W_cdWrW3HDs/edit?usp=sharing)
-
-# My bug reports examples
-
 - [Bug reports - Allegro Sandbox](https://docs.google.com/spreadsheets/d/1XtsmHnSx4snaP7sJZNORmMw1KvXxsCVG28_KW9lUsaI/edit?usp=sharing)
-
-# My Test Plan example
-
 - [Test Plan - Allegro Sandbox](https://docs.google.com/document/d/1L6n1X6EVZlrOAsH5FTHoxmw7W-B_OU1uuR97Z0T-vKY/edit?usp=sharing)
-
-# My Final Report example
-
 - [Final Report - Allegro Sandbox](https://docs.google.com/document/d/1PmWp0WVgCoTZUi8ZRTu-MHuZU6oMFov9dNWUfUcIR3A/edit?usp=sharing)
 
 # Courses
@@ -74,7 +65,7 @@ Hi! My name is Michał Rojek. I am a third-year Computer Science student who is 
 - [Newsletter QA Weekly](https://szkoleniedlaqa.pl/newsletter/)
 
 ***
-> # My project
+# My project
 
 - Group project - testing the [Rental Property Managment Application](https://app.systemobsluginajmu.pl) in an Agile team
   - [Test scenario and test cases for Creating Account module](https://drive.google.com/file/d/109h0lIUGu-Aj_eTkc2INiA2zuKkmxh2t/view?usp=sharing)
