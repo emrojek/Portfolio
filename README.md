@@ -11,13 +11,12 @@
 
 ### Technical skills
 
+- JavaScript (learning)
 - ISTQB FL knowledge
-- Software testing
-- SQL
 - REST API testing
-- SCRUM
-- HTML5/CSS5
+- HTML5/CSS3
 - DevTools
+- SQL
 - GIT
 
 ### My documentation examples
@@ -33,20 +32,16 @@
 
 ### Courses
 
-- szkoleniedlaqa.pl - [Szkolenie dla QA](https://szkoleniedlaqa.pl/szkolenie/)
-- Udemy - [Podstawy manualnego testowania oprogramowania](https://www.udemy.com/course/kurs-testowania-oprogramowania/)
-- Udemy - [Kurs Tworzenia Stron WWW cz. I - HTML, CSS, RWD](https://www.udemy.com/course/od-zera-do-front-end-developera-cz1/)
-- Udemy - [SQL dla początkujących - PostgreSQL](https://www.udemy.com/course/sql-dla-poczatkujacych-postgresql-z-podrecznikiem-pdf/)
-- Udemy - [Postman od podstaw - testowanie REST API](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/)
+- Szkolenie dla QA - [szkoleniedlaqa.pl](https://szkoleniedlaqa.pl/szkolenie/)
+- Automatyzacja testów w Cypress (in progress) - [fabrykatestow.pl](https://fabrykatestow.pl/cypress/)
 
 ### Tools
 
-- Lightshot
-- Screencast-O-Matic
-- Bug Magnet, Fake Filler
-- TestLink
-- Jira, Confluence, Trello
+- Visual Studio Code
 - Postman
+- DBeaver
+- Redmine, Confluence
+- Bug Magnet, Fake Filler
 - Bird Eats Bug
 
 ### Certificates
@@ -63,11 +58,10 @@
 
 ### Blogs
 
-- [jaktestowac.pl](https://jaktestowac.pl/)
-- [wyszkolewas.com](https://www.wyszkolewas.com.pl/)
-- [zaprogramujzycie.pl](https://zaprogramujzycie.pl/)
-- [cherry-it.pl](http://cherry-it.pl/)
+- [Fabryka Testów](https://fabrykatestow.pl/ciekawostki/)
 - [Newsletter QA Weekly](https://szkoleniedlaqa.pl/newsletter/)
+- [Ministry of Testing](https://www.ministryoftesting.com)
+- [jaktestowac.pl](https://jaktestowac.pl/)
 
 ### My project
 
