@@ -33,16 +33,15 @@
 ### Courses
 
 - Szkolenie dla QA - [szkoleniedlaqa.pl](https://szkoleniedlaqa.pl/szkolenie/)
-- Automatyzacja testów w Cypress (in progress) - [fabrykatestow.pl](https://fabrykatestow.pl/cypress/)
 
 ### Tools
 
+- Bug Magnet, Fake Filler
+- Redmine, Confluence
 - Visual Studio Code
+- Bird Eats Bug
 - Postman
 - DBeaver
-- Redmine, Confluence
-- Bug Magnet, Fake Filler
-- Bird Eats Bug
 
 ### Certificates
 
@@ -51,16 +50,17 @@
 
 ### Technical books
 
-- [Podróż przez świat testowania](https://www.funwithbugs.com/landingpage/juz_jest_dostepna/)
-- [Pasja testowania. Wydanie II rozszerzone](https://helion.pl/ksiazki/pasja-testowania-wydanie-ii-rozszerzone-krzysztof-jadczyk,paste2.htm#format/d)
-- [Certyfikowany tester ISTQB. Poziom podstawowy](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispp.htm#format/d)
-- [Testowanie Oprogramowania](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
+- Certyfikowany tester ISTQB. Poziom podstawowy - Adam Roman, Lucjan Stapp
+- Podróż przez świat testowania - Karolina Pawłowska & Natalia Pawlak
+- Pasja testowania. Wydanie II rozszerzone - Krzysztof Jadczyk
+- Testowanie Oprogramowania - Piotr Wicherski
+- JavaScript od podstaw - Marcin Moskala
 
 ### Blogs
 
-- [Fabryka Testów](https://fabrykatestow.pl/ciekawostki/)
 - [Newsletter QA Weekly](https://szkoleniedlaqa.pl/newsletter/)
 - [Ministry of Testing](https://www.ministryoftesting.com)
+- [Fabryka Testów](https://fabrykatestow.pl/ciekawostki/)
 - [jaktestowac.pl](https://jaktestowac.pl/)
 
 ### My project
