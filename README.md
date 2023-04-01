@@ -14,8 +14,8 @@
 - JavaScript (learning)
 - ISTQB FL knowledge
 - REST API testing
-- HTML5/CSS3
-- DevTools
+- HTML5 basics
+- CSS3 basics
 - SQL
 - GIT
 
@@ -36,17 +36,16 @@
 
 ### Tools
 
-- Bug Magnet, Fake Filler
 - Redmine, Confluence
 - Visual Studio Code
 - Bird Eats Bug
+- Bug Magnet
 - Postman
 - DBeaver
 
 ### Certificates
 
 - Szkolenie dla QA - [Certificate](https://drive.google.com/file/d/1xfInZe17vo7VU5e1mSPVRpY7-lBrIOOI/view?usp=share_link)
-- DevTools - [Certificate](https://drive.google.com/file/d/1cTxtRMJL0tTNecsRlK9-bwnUxqSxq495/view?usp=share_link)
 
 ### Technical books
 
